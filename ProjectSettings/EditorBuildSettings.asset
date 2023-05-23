@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/K\xFCpKosturmaca.unity"
+    guid: 6471ba8d4b0616644b16ae5a1f673149
+  - enabled: 1
+    path: Assets/Scenes/Level01.unity
+    guid: 7f514867d6a4ac84781ff294b51a2052
+  - enabled: 1
+    path: Assets/Scenes/Level02.unity
+    guid: 4df619bd58bcd2f4fb5befd74dbda99a
+  - enabled: 1
+    path: Assets/Scenes/Level03.unity
+    guid: 674be07bfdf4838438d6e8315ad40400
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 5d02b194b46c4b74bac024b9f59d6866
+  m_configObjects: {}
